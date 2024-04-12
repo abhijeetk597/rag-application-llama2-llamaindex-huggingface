@@ -1,0 +1,16 @@
+streamlit
+transformers
+huggingface-hub
+einops 
+accelerate==0.29.2 
+langchain 
+bitsandbytes==0.43.1
+sentence_transformers 
+llama_index 
+llama-index-llms-huggingface
+llama-index-embeddings-langchain
+llama-index-embeddings-huggingface
+langchain-community
+torch
+python-dotenv
+pathlib
